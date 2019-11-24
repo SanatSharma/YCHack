@@ -1,0 +1,8 @@
+torch
+sklearn
+numpy
+pillow
+matplotlib
+tqdm
+flask
+flask_cors
