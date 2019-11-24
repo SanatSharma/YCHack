@@ -1,0 +1,7 @@
+*.jpg
+*.jpeg
+__pycache__
+models/__pycache__
+IMAGES
+bad*.txt
+*.pt
